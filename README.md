@@ -34,6 +34,10 @@ where `value` is that (pasted) value, without any space immediately before or af
 
 Start Flask’s built-in web server (within the app folder):
 `$ flask run`
-Visit the URL outputted by flask to see the distribution code in action. You will need to `register` and `login` to use the featues of the app. 
+Visit the URL outputted by flask to see the App in action. You will need to `register` and `login` to use the featues of the app. 
+
+That's it! The app should be running seamlessly on your local computer, if you have any issues or questions you can reach out to me via email or Twitter.
+
+### I hope you like the app :-)
 
 

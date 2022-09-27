@@ -9,7 +9,7 @@ A Stock Exchange App built with Flask (Python)
 
 After cloning/downloading the App to your Local Computer, here's what you need to do to get the app running locally;
 
-##### 1. Install the requirements
+#### 1. Install the requirements
 
 Among the files you downloaded is a `requirements.txt` file that lists the packages you need to run the app locally. In your terminal, execute:
 `$ pip install [package_name]`
@@ -18,7 +18,7 @@ where `[package_name]` is the name of a package in the `requirements.txt` file.
 Execute this for each package until you have installed all of them required.
 
 
-##### 2. Get your API Key
+#### 2. Get your API Key
 
 * Visit [iexcloud.io/cloud-login#/register/](iexcloud.io/cloud-login#/register/).
 * Select the “Individual” account type, then enter your name, email address, and a password, and click “Create account”.

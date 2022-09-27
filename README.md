@@ -20,7 +20,7 @@ Execute this for each package until you have installed all of them required.
 
 #### 2. Create your Database
 
-Create a `finance.db` (Naming is important as it has already been linked to in the Python Code - Use the exact name). This will allow the app to store user information on your Computer. Make sure you create this inside the Project folder.
+Create `finance.db` (Naming is important as it has already been linked to in the Python Code - Use the exact name). This will allow the app to store user information on your Computer. Make sure you create this inside the Project folder. You can simply do this by executing: `$ touch finance.db` in the terminal within the project folder. 
 
 
 #### 3. Get your API Key

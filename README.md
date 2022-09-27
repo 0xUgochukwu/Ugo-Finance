@@ -38,6 +38,6 @@ Visit the URL outputted by flask to see the App in action. You will need to `reg
 
 That's it! The app should be running seamlessly on your local computer at this poiny, if you have any issues or questions you can reach out to me via email or Twitter.
 
-### I hope you enjoy the app :-)
+### I hope you enjoy using the app :-)
 
 

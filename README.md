@@ -18,7 +18,12 @@ where `[package_name]` is the name of a package in the `requirements.txt` file.
 Execute this for each package until you have installed all of them required.
 
 
-#### 2. Get your API Key
+#### 2. Create your Database
+
+Create a `finance.db` (Naming is important as it has already been linked to in the Python Code - Use the exact name). This will allow the app to store user information on your Computer. Make sure you create this inside the Project folder.
+
+
+#### 3. Get your API Key
 
 * Visit [iexcloud.io/cloud-login#/register/](iexcloud.io/cloud-login#/register/).
 * Select the “Individual” account type, then enter your name, email address, and a password, and click “Create account”.
@@ -30,7 +35,7 @@ Execute this for each package until you have installed all of them required.
 where `value` is that (pasted) value, without any space immediately before or after the `=`. You also may wish to paste that value in a text document somewhere, in case you need it again later.
 
 
-#### 3. Run the App
+#### 4. Run the App
 
 Start Flask’s built-in web server (within the app folder):
 `$ flask run`
